@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+#div{
+    color: brown;
+    border: solid 2px black;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    text-align: center;
+    
+}
+#div p{
+    margin: 3px;
+}
+#div h2{
+    margin: 4px;
+}
